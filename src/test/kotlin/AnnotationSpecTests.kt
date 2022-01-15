@@ -12,7 +12,7 @@ class AnnotationSpecTests : AnnotationSpec() {
         1 shouldBe 1
     }
 
-    @Test
+    @Test @Ignore
     fun test2() {
         3 shouldBe 3
     }
