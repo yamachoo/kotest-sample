@@ -1,6 +1,6 @@
 import io.kotest.core.spec.style.DescribeSpec
 
-class DescribeSpecTest : DescribeSpec({
+class DescribeSpecTests : DescribeSpec({
     describe("score") {
         it("start as zero") {
             // test here
