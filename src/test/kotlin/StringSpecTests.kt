@@ -9,4 +9,8 @@ class StringSpecTests : StringSpec({
     "this test is disabled".config(enabled = false) {
         // test here
     }
+
+    "!this test is disabled 2" {
+        // test here
+    }
 })
