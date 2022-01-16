@@ -6,7 +6,7 @@ plugins {
     application
 }
 
-group = "me.ryota"
+group = "com.example"
 version = "1.0-SNAPSHOT"
 
 repositories {
